@@ -1,0 +1,61 @@
+@media (min-width: 768px) {
+  .nav-header {
+    flex-direction: row;
+  }
+
+}
+
+.nav-container {
+  width: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: start;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 0.3rem;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: left;
+  background-color: white;
+}
+
+.hands {
+  max-width: 100px;
+  height: auto;
+  border: none;
+}
+
+header {
+  margin: 0;
+}
+
+.nav-name {
+  max-width: 100%;
+  height: auto;
+  margin-right: 0.3rem;
+  margin-left: 0.4rem;
+  border: none;
+}
+
+.nav-box {
+  font-family: "Helvetica";
+  text-decoration: none;
+  margin-right: 1rem;
+  margin-top: auto;
+  margin-bottom: auto;
+  color: #40c0c0;
+  font-weight: bold;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  background-color: #EE3F2C;
+}

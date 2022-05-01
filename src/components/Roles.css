@@ -1,0 +1,55 @@
+.roles-container {
+  margin: 1rem;
+  padding: 1rem;
+  align-items: left;
+  background-color: white;
+  border: 2px solid #EE3F2C;
+  border-radius: 8px;
+}
+
+.code-icon {
+    margin-top: 0.5rem;
+}
+
+.gif {
+    margin-top: -0.3rem;
+    margin-right: 1rem;
+}
+
+img {
+    float: left;
+    margin-right: 1rem;
+}
+
+.inline-icon {
+    margin-top: 0.5rem;
+    margin-right: 1rem;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.roles-col {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.roles-row {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1rem;
+}
+
+.roles-span {
+    color: #EE3F2C;
+    font-weight: bold;
+}
+
+.spacer{
+    min-width: 66px;
+    float: left;
+}
+
