@@ -2,6 +2,7 @@ import React from "react";
 import "./Contact.css";
 import ph from "../public/phone.gif";
 import email from "../public/email.gif";
+import num from "../public/num.png";
 
 export default function Contact() {
   return (
@@ -22,6 +23,10 @@ export default function Contact() {
                   Email me to arrange a chat
                 </a>
               </p>
+              <div>
+                <p>or call</p>
+                <img src={ num }/>
+              </div>
             </div>
           </div>
         </div>

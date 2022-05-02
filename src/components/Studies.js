@@ -50,8 +50,8 @@ export default function Studies() {
                 <p>
                   — Units in <span className="skills-span"> big data </span> and <span className="skills-span"> machine learning</span>
                   <br></br>
-                  Implement security for applications<br></br>
-                  Promote workplace cyber security awareness and best practices
+                  Conduct significance tests<br></br>
+                  Use unsupervised learning for clustering
                 </p>
                 <p>
                   — Units in{" "}

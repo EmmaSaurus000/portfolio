@@ -16,7 +16,7 @@ export default function Projects() {
     <section id="projects">
       <div className="projects-container">
         <h3 className="projects-title">
-          Projects — Languages and Frameworks
+          Projects
           <img className="gif" src={idea} style={{ maxWidth: 40 }} />
         </h3>
         <div>

@@ -95,7 +95,7 @@ export default function Skills() {
                   <span className="skills-span">role-based access control</span>{" "}
                   using the migrations-based{" "}
                   <span className="skills-span">Laravel</span> framework
-                  <br></br>— invoicing software for Belmont Potters Group using
+                  <br></br>— invoicing software for Belmont Potters' Group using
                   pure PHP and <span className="skills-span">MariaDB</span>
                 </p>
               </div>
