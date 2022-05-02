@@ -92,7 +92,7 @@ export default function Studies() {
                   Apache Spark are used<br></br>— different big-data
                   architectures<br></br>— practical map-reduce exercises using
                   PySpark and creating dataframes<br></br>— data lakes and ETL
-                  processing<br></br>— problems of volume, velocity, veriety and
+                  processing<br></br>— problems of volume, velocity, variety and
                   veracity<br></br>— defining a data pipeline for a case study
                 </p>
               </div>
