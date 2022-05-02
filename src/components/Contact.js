@@ -18,14 +18,11 @@ export default function Contact() {
               <div>
                 <img className="gif" src={email} style={{ maxWidth: 50 }} />
               </div>
-              <p className="mailme">
-                <a className="mail" href="mailto:emmasaurus000@gmail.com">
-                  Email me to arrange a chat
-                </a>
-              </p>
               <div>
-                <p>or call</p>
-                <img src={ num }/>
+                <p className="mailme">
+                  <a className="mail" href="mailto:emmasaurus000@gmail.com">
+                    Email me</a> <span className="black"> to arrange a chat or call  </span>
+                                <img className="call" src={ num } /></p>
               </div>
             </div>
           </div>
